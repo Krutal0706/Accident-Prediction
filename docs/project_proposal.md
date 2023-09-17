@@ -34,11 +34,11 @@
   
     * However, Thousands of accidents are happening after having strict rules and regulations.
   
-    * Predicting accidents has thus developed into one of the most extensively studied areas, which could be used by various agencies to improve overall transportation infrastructure and optimize traffic conditions.
+    * Predicting accidents has thus developed into one of the most extensively studied areas, which various agencies could use to improve overall transportation infrastructure and optimize traffic conditions.
 
   ### C. What are your research questions?
 
-    * What methods or techniques helps to achieve high accuracy in severity prediction and accidents?
+    * What methods or techniques help to achieve high accuracy in severity prediction and accidents?
 
     * How do these findings contribute to increasing roadway safety and reducing accident risks?
 
@@ -46,6 +46,30 @@
     
 ## 3. Data
 
-* A number of publicly accessible datasets are available, including statistics on accidents, traffic incidents, and weather.
+* Several publicly accessible datasets are available, including statistics on accidents, traffic incidents, and weather.
 
-* These datasets could be used to prepare useful classification models to predict whether a particular condition is more prone to accidents and whether drivers must drive with precaution.
+* These datasets could be used to prepare helpful classification models to predict whether a particular condition is more prone to accidents and whether drivers must drive with precaution.
+
+#### About the data set
+
+* The dataset has been fetched from the UK Government website and the files have been merged and cleaned to reach the final data attached.
+
+* This dataset shows road accidents in the UK between 1979 and 2015, comprising roughly 250K rows and 70 features/columns.
+
+* Data sources - [UK GOV](https://www.data.gov.uk/)
+
+* Data size - 71.13 MB
+
+* Data shape - 139972(rows), 70(columns)
+
+* What does each row represent?
+
+  Each row typically represents accidental information.
+
+* Which variable/column will be your target/label in your ML model?
+
+  Because segmentation is a supervised learning activity, there is a conventional goal variable.
+
+* Which variables/columns may be selected as features/predictors for your ML models?
+
+  The goal is to use supervised learning techniques like clustering (e.g., KNN and Naive Bayes classifier) on specific target variables.
