@@ -235,8 +235,8 @@
  
 * Which variable/column will be your target/label in your ML model?
 
-  Because segmentation is a supervised learning activity, there is a conventional goal variable.
+  Because segmentation is a supervised learning activity, I am going to use accident severity as a target variable.
 
 * Which variables/columns may be selected as features/predictors for your ML models?
 
-  The goal is to use supervised learning techniques like clustering on specific target variables.
+  Light Conditions, Weather Conditions, Road Surface Conditions, Latitude, Logitude.
