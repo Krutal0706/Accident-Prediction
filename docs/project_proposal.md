@@ -239,4 +239,4 @@
 
 * Which variables/columns may be selected as features/predictors for your ML models?
 
-  Light Conditions, Weather Conditions, Road Surface Conditions, Latitude, Logitude.
+  NUmber of Vehicles, Light and Weather Conditions, Road Surface Conditions, Latitude, Logitude.
