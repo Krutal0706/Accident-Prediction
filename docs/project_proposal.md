@@ -54,7 +54,7 @@
 
 * The dataset has been fetched from the UK Government Road Accidents and Safety Statistics website and the files have been merged and cleaned to reach the final data attached.
 
-* This dataset shows road accidents in the UK between 1979 and 2015, comprising roughly 250K rows and 70 features/columns.
+* This dataset shows road accidents in the UK between 2005 and 2014, comprising roughly 1.5 M rows and 33 features/columns.
 
 * Data sources - [UK GOV](https://www.gov.uk/government/collections/road-accidents-and-safety-statistics)
 
