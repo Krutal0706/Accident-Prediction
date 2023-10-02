@@ -181,7 +181,7 @@
   Pedestrian_Crossing-Human_Control
     - Dtype - object
     - Definition - It refers to a categorical variable that describes the type of control or regulation at a pedestrian crossing where the accident occurred.
-    #- Potential Values - 3 unique values.
+    - Potential Values - 3 unique values.
  
   Pedestrian_Crossing-Physical_Facilities
     - Dtype - object
