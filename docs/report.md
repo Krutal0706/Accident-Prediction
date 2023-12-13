@@ -12,3 +12,4 @@
 ## Background
 #### What is Accident About?
 
+Ensuring safety, whether it pertains to health, finances, or road usage, remains a paramount concern. Presently, road safety takes precedence as we dedicate an average of 597 hours per year to our daily commute, equivalent to 25 days. Despite substantial government investments in constructing quality roads and certifying automobile safety, thousands of accidents persist despite stringent rules. The prediction of accidents has evolved into a highly researched domain, offering potential enhancements to transportation infrastructure and the optimization of traffic conditions.
