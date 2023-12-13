@@ -90,3 +90,5 @@ Each row in the `Accidents0514.csv` file represents unique accident data listed 
 | LSOA_of_Accident_Location  | Lower Layer Super Output Area (LSOA) of the accident location                               | object    |
 | Year                       | the year of this incident                                                                   | integer   |
 
+## Exploratory Data Analysis
+
