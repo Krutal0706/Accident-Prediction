@@ -54,39 +54,39 @@ The data spans a period from 2005 to 2014, providing a comprehensive view of acc
 
 Each row in the `Accidents0514.csv` file represents unique accident data listed on the website. The data fields include:
 
-| Column Name                | Description                                        | Data Type |
-|----------------------------|----------------------------------------------------|-----------|
-| Unnamed Column             | index values             | integer    |
-| Accident_Index             | different accident IDs                                | object    |
-| Location_Easting_OSGR      | Location from east OSGR values                   | float    |
-| Location_Northing_OSGR     | Location from North OSGR values                                           | float    |
-| Longitude                  | Longitude of the location              | float    |
-| Latitude                   | Latitude of the location                                    | float    |
-| Police Force               | Police force Number at the crash spot                  | integer     |
-| Accident_Severity          | describes the extent or level of severity of an accident (1-fatal, 2-serious, 3-Slight) | integer     |
-| Number_of_Vehicles         | number of vehicles included in the accident | integer     |
-| Number_of_Casualties       | count of individuals who are either injured or killed as a result of an accident  | integer   |
-| Date                       | the date of the incident        | object   |
-| Day_of_week                | the day of the week                       | integer     |
-| Time                       | accident time        | object   |
-| Local_Authority_(District) | administrative district or local government authority responsible for a specific geographic | integer     |
-| Local_Authority_(Highway)  | Gov. auth or council res for the management and maintenance of a specific section | object     |
-| 1st_Road_Class             | describes the classification or type of the first road | integer     |
-| 1st_Road_Number            | alphanumeric identifier assigned to the first road                                  | integer   |
-| Road_Type                  | types of roads        | object   |
-| Speed_limit                | limit of the speed on a road     | integer     |
-| Junction_Control           | refers to a categorical variable that describes the type of control | object   |
-| 2nd_Road_Class             | classification or type of the second road         | integer     |
-| 2nd_Road_Number            | numerical or alphanumeric identifier assigned to the second road    | integer     |
-| Pedest_Cros-Human_Control  | the type of control or regulation at a pedestrian crossing      | object     |
-| Pedest_Cros-Phy_Facilities | the type of physical infrastructure or facilities in place    | object     |
+| Column Name                | Description                                                                                 | Data Type |
+|----------------------------|---------------------------------------------------------------------------------------------|-----------|
+| Unnamed Column             | index values                                                                                | integer   |
+| Accident_Index             | different accident IDs                                                                      | object    |
+| Location_Easting_OSGR      | Location from east OSGR values                                                              | float     |
+| Location_Northing_OSGR     | Location from North OSGR values                                                             | float     |
+| Longitude                  | Longitude of the location                                                                   | float     |
+| Latitude                   | Latitude of the location                                                                    | float     |
+| Police Force               | Police force Number at the crash spot                                                       | integer   |
+| Accident_Severity          | describes the extent or level of severity of an accident (1-fatal, 2-serious, 3-Slight)     | integer   |
+| Number_of_Vehicles         | number of vehicles included in the accident                                                 | integer   |
+| Number_of_Casualties       | count of individuals who are either injured or killed as a result of an accident            | integer   |
+| Date                       | the date of the incident                                                                    | object    |
+| Day_of_week                | the day of the week                                                                         | integer   |
+| Time                       | accident time                                                                               | object    |
+| Local_Authority_(District) | administrative district or local government authority responsible for a specific geographic | integer   |
+| Local_Authority_(Highway)  | Gov. auth or council res for the management and maintenance of a specific section           | object    |
+| 1st_Road_Class             | describes the classification or type of the first road                                      | integer   |
+| 1st_Road_Number            | alphanumeric identifier assigned to the first road                                          | integer   |
+| Road_Type                  | types of roads                                                                              | object    |
+| Speed_limit                | limit of the speed on a road                                                                | integer   |
+| Junction_Control           | refers to a categorical variable that describes the type of control                         | object    |
+| 2nd_Road_Class             | classification or type of the second road                                                   | integer   |
+| 2nd_Road_Number            | numerical or alphanumeric identifier assigned to the second road                            | integer   |
+| Pedest_Cros-Human_Control  | the type of control or regulation at a pedestrian crossing                                  | object    |
+| Pedest_Cros-Phy_Facilities | the type of physical infrastructure or facilities in place                                  | object    |
+| Light_Conditions           | lighting conditions at the time of the accident                                             | object    |
+| Weather_Conditions         | prevailing weather conditions at the time of the accident                                   | object    |
+| Road_Surface_Conditions    | the road surface at the time of the accident                                                | object    |
+| Special_Conditions_at_Site | special or unusual conditions or circumstances at the accident site                         | object    |
+| Carriageway_Hazards        | the road or carriageway at the time of the accident                                         | object    |
+| Urban_or_Rural_Area        | The accident occurred in an urban or rural area                                             | integer   |
+| Police_Attend_Scene_of_Acc | Police officer attended the scene of the accident                                           | object    |
+| LSOA_of_Accident_Location  | Lower Layer Super Output Area (LSOA) of the accident location                               | object    |
+| Year                       | the year of this incident                                                                   | integer   |
 
-| Light_Conditions           | Longitude of the business location                 | object     |
-| Weather_Conditions         | Star rating of the business (rounded to half-stars)| object     |
-| Road_Surface_Conditions    | Number of reviews                                  | object   |
-| Special_Conditions_at_Site | Indicates if the business is open or closed        | object   |
-| Carriageway_Hazards        | Array of business categories                       | object     |
-| Urban_or_Rural_Area        | Indicates if the business is open or closed        | integer   |
-| Police_Attend_Scene_of_Acc | Array of business categories                       | object     |
-| LSOA_of_Accident_Location  | Array of business categories                       | object     |
-| Year                       | Indicates if the business is open or closed        | integer   |
