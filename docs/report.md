@@ -180,3 +180,29 @@ Each row in the `Accidents0514.csv` file represents unique accident data listed 
 </div>
 
 ---
+
+<p align="center">
+  <img src="https://github.com/DATA-606-2023-FALL-MONDAY/krutal_patel/blob/main/pictures/accident_road_surface.png" alt="Accident on different road surface" width="auto" height="300">
+</p>
+
+<div align="justify">
+
+- The graph emphasizes that road surface conditions play a limited role in contributing to accidents, with the majority of incidents transpiring on dry road surfaces. This suggests that other factors, such as driver behavior, traffic conditions, or vehicle-related issues, might have more substantial influence on accident occurrences. The data underscores the importance of focusing on broader aspects beyond road surface conditions to enhance overall road safety
+
+</div>
+
+---
+
+<p align="center">
+  <img src="https://github.com/DATA-606-2023-FALL-MONDAY/krutal_patel/blob/main/pictures/accident_road_types.png" alt="Accident on different road types" width="auto" height="300">
+</p>
+
+<div align="justify">
+
+- The data reveals a significant disparity in accident frequency between single carriageway and dual carriageway roads, with the majority of accidents occurring on single carriageway roads. This suggests that single carriageway roads may pose a higher risk of accidents compared to their dual carriageway counterparts. The lower incidence of accidents on dual carriageway roads implies that they might offer a safer road environment in terms of accident occurrence.
+
+</div>
+
+---
+
+
