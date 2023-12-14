@@ -187,7 +187,7 @@ Each row in the `Accidents0514.csv` file represents unique accident data listed 
 
 <div align="justify">
 
-- The graph emphasizes that road surface conditions play a limited role in contributing to accidents, with the majority of incidents transpiring on dry road surfaces. This suggests that other factors, such as driver behavior, traffic conditions, or vehicle-related issues, might have more substantial influence on accident occurrences. The data underscores the importance of focusing on broader aspects beyond road surface conditions to enhance overall road safety
+- The graph emphasizes that road surface conditions play a limited role in contributing to accidents, with the majority of incidents transpiring on dry road surfaces. This suggests that other factors, such as driver behavior, traffic conditions, or vehicle-related issues, might have a more substantial influence on accident occurrences. The data underscores the importance of focusing on broader aspects beyond road surface conditions to enhance overall road safety
 
 </div>
 
@@ -199,10 +199,18 @@ Each row in the `Accidents0514.csv` file represents unique accident data listed 
 
 <div align="justify">
 
-- The data reveals a significant disparity in accident frequency between single carriageway and dual carriageway roads, with the majority of accidents occurring on single carriageway roads. This suggests that single carriageway roads may pose a higher risk of accidents compared to their dual carriageway counterparts. The lower incidence of accidents on dual carriageway roads implies that they might offer a safer road environment in terms of accident occurrence.
+- The data reveals a significant disparity in accident frequency between single-carriageway and dual-carriageway roads, with the majority of accidents occurring on single-carriageway roads. This suggests that single-carriageway roads may pose a higher risk of accidents compared to their dual-carriageway counterparts. The lower incidence of accidents on dual carriageway roads implies that they might offer a safer road environment in terms of accident occurrence.
 
 </div>
 
 ---
+
+### Results of EDA
+
+Over the years, the data from Exploratory Data Analysis paints a concerning picture, indicating a consistent increase in the number of accidents. The majority of these accidents unfold during the peak hours of the day, suggesting a potential correlation between increased traffic and heightened activity. Urban areas stand out as hotspots for accidents, emphasizing the need for targeted safety measures in densely populated regions. Furthermore, a significant proportion of accidents unfold on single-carriageway roads, underlining the importance of road infrastructure and design considerations. The common thread through these incidents is that most occur during optimal weather conditions – dry weather, daylight, and fine weather – pointing towards a need for heightened vigilance and safety precautions even in favorable circumstances.
+
+### Feature Engineering 
+
+
 
 
