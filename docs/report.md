@@ -92,3 +92,91 @@ Each row in the `Accidents0514.csv` file represents unique accident data listed 
 
 ## Exploratory Data Analysis
 
+<p align="center">
+  <img src="https://github.com/DATA-606-2023-FALL-MONDAY/krutal_patel/blob/main/pictures/accident_severities.png" alt="Accident Severity" width="auto" height="400">
+</p>
+<div align="justify">
+   
+***Category 0 (Fatal):*** This portion of the pie chart represents the percentage of accidents classified as "fatal." The statement doesn't provide the exact percentage, but it implies that it is a minority compared to the "slight" category.
+
+***Category 1 (Serious + Fatal):*** This segment represents the combined percentage of accidents categorized as both "serious" and "fatal." The statement mentions that, in total, these categories constitute around 15% of all accidents.
+
+***Overall Implication:*** The inference is that the majority, approximately 85%, of accidents fall into the "slight" category. This information is valuable for understanding the distribution of accident severity and can inform safety measures and interventions to address the specific types of accidents that lead to more severe outcomes.
+
+</div>
+
+---
+
+<p align="center">
+  <img src="https://github.com/DATA-606-2023-FALL-MONDAY/krutal_patel/blob/main/pictures/accident_years.png" alt="Accident thruough the years" width="auto" height="300">
+</p>
+
+<div align="justify">
+
+***Time Frame:*** The data under consideration covers 10 years, starting from 2005 and ending in 2014. This extended time frame allows for a comprehensive analysis of trends and patterns in accident rates.
+
+***Downward Trend:*** The term "downward trend" indicates that, over the specified period, the number of accidents has consistently decreased or the accident rates have lowered each year.
+
+</div>
+
+---
+
+<p align="center">
+  <img src="https://github.com/DATA-606-2023-FALL-MONDAY/krutal_patel/blob/main/pictures/accident_hours.png" alt="Accident thruough the years" width="auto" height="300">
+</p>
+
+<div align="justify">
+
+- The data analysis indicates a clear correlation between the timing of accidents and peak office hours during the day. This suggests that the increased volume of traffic and commuter activities during these hours might contribute to a higher risk of accidents. Understanding the specific hours when accidents are more likely can aid in implementing targeted measures to enhance road safety during those times. The findings emphasize the importance of time-sensitive interventions, such as increased traffic monitoring or awareness campaigns, to address safety concerns during peak hours. Ultimately, this information provides valuable insights for designing effective strategies to reduce accidents and improve overall road safety.
+
+</div>
+
+---
+
+<p align="center">
+  <img src="https://github.com/DATA-606-2023-FALL-MONDAY/krutal_patel/blob/main/pictures/accident_weather.png" alt="Accidents during weather condition" width="auto" height="300">
+</p>
+
+<div align="justify">
+
+- The visual representation provides insights into the correlation between weather conditions and accident severity. Fine weather conditions emerge as the predominant factor associated with a higher frequency of accidents. On the contrary, specific weather conditions like snowfall accompanied by high winds, as well as fog or mist, contribute to a lesser incidence of accidents. Particularly, snowfall without high winds stands out as the scenario with the lowest occurrence of accidents. This information underscores the influence of weather patterns on accident rates, highlighting the importance of considering these factors in road safety measures and planning.
+
+</div>
+
+---
+
+<p align="center">
+  <img src="https://github.com/DATA-606-2023-FALL-MONDAY/krutal_patel/blob/main/pictures/accident_area.png" alt="Accident on different area" width="auto" height="300">
+</p>
+
+<div align="justify">
+
+- The pie chart delineates the distribution of accidents between urban and rural areas. With two-thirds of accidents occurring in urban settings, it underscores the heightened risk and frequency within city environments. Conversely, rural areas experience one-third of the total accidents, indicating a comparatively lower occurrence in less densely populated regions.
+
+</div>
+
+---
+
+<p align="center">
+  <img src="https://github.com/DATA-606-2023-FALL-MONDAY/krutal_patel/blob/main/pictures/accident_junction.png" alt="Accident in different junction" width="auto" height="300">
+</p>
+
+<div align="justify">
+
+- The data provides insights into the distribution of accidents based on junction control types. Notably, half of the accidents took place at locations with "give way" or "uncontrolled" junction control. Within this category, "No junction control" stands out, constituting 40% of the accidents, highlighting the significance of intersections without specific control measures. In contrast, "traffic signal" junctions contribute to 10% of the accidents, emphasizing the role of controlled intersections in accident occurrences.
+
+</div>
+
+---
+
+<p align="center">
+  <img src="https://github.com/DATA-606-2023-FALL-MONDAY/krutal_patel/blob/main/pictures/accident_light.png" alt="Accident on different light conditions" width="auto" height="300">
+</p>
+
+<div align="justify">
+
+- The data underscores a significant disparity in accident frequency based on lighting conditions, with the highest incidence occurring during daylight, constituting approximately 72% of all accidents. In contrast, accidents in conditions of darkness, whether with known or unknown light conditions, collectively account for only 1% of the total incidents. This highlights the pronounced influence of daylight conditions on accident occurrences compared to situations involving reduced visibility.
+
+</div>
+
+---
