@@ -207,10 +207,11 @@ Each row in the `Accidents0514.csv` file represents unique accident data listed 
 
 ### Results of EDA
 
-Over the years, the data from Exploratory Data Analysis paints a concerning picture, indicating a consistent increase in the number of accidents. The majority of these accidents unfold during the peak hours of the day, suggesting a potential correlation between increased traffic and heightened activity. Urban areas stand out as hotspots for accidents, emphasizing the need for targeted safety measures in densely populated regions. Furthermore, a significant proportion of accidents unfold on single-carriageway roads, underlining the importance of road infrastructure and design considerations. The common thread through these incidents is that most occur during optimal weather conditions – dry weather, daylight, and fine weather – pointing towards a need for heightened vigilance and safety precautions even in favorable circumstances.
+   Over the years, the data from Exploratory Data Analysis paints a concerning picture, indicating a consistent increase in the number of accidents. The majority of these accidents unfold during the peak hours of the day, suggesting a potential correlation between increased traffic and heightened activity. Urban areas stand out as hotspots for accidents, emphasizing the need for targeted safety measures in densely populated regions. Furthermore, a significant proportion of accidents unfold on single-carriageway roads, underlining the importance of road infrastructure and design considerations. The common thread through these incidents is that most occur during optimal weather conditions – dry weather, daylight, and fine weather – pointing towards a need for heightened vigilance and safety precautions even in favorable circumstances.
 
 ### Feature Engineering 
 
+   Feature selection is applied once the data has been split and cleaned. This is an important step in the process when we go through the dataset, remove variables that aren't relevant, and find the most informative features that have a big impact on our target variable. To make sure the model is trained on the most significant data, features that have the strongest correlations with the intended result were chosen using correlation analysis. By concentrating on these crucial components, we improve the model's accuracy and overall performance while streamlining the training process, opening the door to accurate and perceptive forecasts.
 
 
 
