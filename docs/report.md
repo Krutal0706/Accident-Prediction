@@ -6,7 +6,7 @@
 - Author Name: Krutal Patel 
 - [GitHub](https://github.com/Krutal0706/)
 - [LinkedIn](https://www.linkedin.com/in/krutal-patel/)
-- [PowerPoint Presentation]()
+- [PowerPoint Presentation](https://docs.google.com/presentation/d/1UCBrC8JKX7KFw8jlbPFv_tW3QhdJs_RL/edit?usp=sharing&ouid=117566803256326904165&rtpof=true&sd=true)
 - [Youtube Video](https://youtu.be/fxgd_DzcwzQ)
 
 ## Background
