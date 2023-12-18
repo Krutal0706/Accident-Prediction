@@ -266,13 +266,16 @@ In summary, the decision between XGBoost and Random Forest depends on the specif
 2. **Model Comparison:** While both models perform well, the Random Forest classifier exhibits slightly higher average accuracy and better recall for class 1 instances. This suggests that Random Forest may have a slight edge in identifying severe accidents, especially in imbalanced datasets.
 3. **User Experience Enhancement:** The multi-faceted recommendation approach implemented in the project significantly enhances the user experience in accident prediction, providing valuable insights and actionable recommendations.
 4. **Scalability and Adaptation:** The developed methodologies and systems are scalable and adaptable to various geographical areas or sectors, such as urban planning and real-time traffic management systems.
-5. **Application Beyond Accident Prediction:** The project's outcomes extend beyond accident prediction, finding potential application in urban planning and infrastructure optimization. This broader utility contributes to creating smarter and safer cities.
+5. **Application Beyond Accident Prediction:** The project's outcomes extend beyond accident prediction, finding potential applications in urban planning and infrastructure optimization. This broader utility contributes to creating smarter and safer cities.
 
-In conclusion, the project successfully addresses accident prediction with robust models and extends its impact to enhance user experience, scalability, and adaptation in various domains, showcasing its versatility and potential for positive societal impact.
+In conclusion, the project successfully addresses accident prediction with robust models. It extends its impact to enhance user experience, scalability, and adaptation in various domains, showcasing its versatility and potential for positive societal impact.
 
 ## Future Work
 
 To further improve and evolve the accident prediction project, the following enhancements can be considered:
 
+1. **Integration of Real-time Data:** Enhance the models by integrating real-time data feeds, such as weather conditions, road closures, or special events. This would provide more dynamic and accurate predictions. Like Real-time traffic management systems. Where Accident prediction models can be integrated with real-time traffic management systems to dynamically adjust traffic signals, lane closures, and speed limits based on predicted accident risk.
 
+2. **Data addition:** Adding more data to predict accurate severity. like adding traffic index, speed of car, and driver BAC level which can help to predict accurate data.
 
+3. **Enhanced User Interface:** Develop a user-friendly interface to present the predictions and recommendations, ensuring accessibility and usability for a broader audience. Incorporate visualization tools for better interpretation.
